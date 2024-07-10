@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" parent-id="Netology" uuid="bbaf329d-59c8-47da-b9b4-cc5358f5e02a" xsi:noNamespaceSchemaLocation="https://www.jetbrains.com/teamcity/schemas/2021.1/project-config.xsd">
+  <name>Example Teamcity</name>
+  <parameters />
+  <cleanup />
+</project>
+
